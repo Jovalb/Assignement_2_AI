@@ -2,8 +2,6 @@
 
 Assignement 2 for intro to AI
 
-Antall Features: 5
-
 Elever på gruppe:
 
 Jo Vetle Albrethsen : s329329
