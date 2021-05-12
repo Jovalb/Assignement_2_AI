@@ -16,3 +16,5 @@ We used the Decision Tree Regressor algorithm in this task.
 We decided to use this algorithm because it supported regression for continous values.
 The algorithm was easier to visualize in our heads because it used nodes and leaf nodes, where the leaf nodes was presented as the predicted price.
 The algorithm was easier to understand and in our tests worked better then linear regression algorithm which we tested.
+
+In order to view the jupyter notebook files i would recommend to use https://nbviewer.jupyter.org/ and paste the link for this repository there.
